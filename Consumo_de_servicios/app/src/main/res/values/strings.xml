@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Consumo</string>
+    <string name="btn_Descarga">Descarga</string>
+    <string name="btn_Texto">CSV</string>
+    <string name="URL_servicio">Escribe URL del servicio</string>
+
+    <string name="Boton1">Pasar</string>
+    <string name="Texto">Texto</string>
+    <string name="Mostrar">Mostrar</string>
+</resources>
