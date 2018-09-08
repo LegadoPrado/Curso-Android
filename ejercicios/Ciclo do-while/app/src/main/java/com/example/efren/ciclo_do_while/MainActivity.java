@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Unión de los id del xml con variables de la clase java
         button = (Button) findViewById(R.id.button);
-        textView = (TextView) findViewById(R.id.textView);
+
 
         //Impresión del problema en el EditText
         textView.setText(

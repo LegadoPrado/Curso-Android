@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Biodiversidad</string>
+    <string name="Login">Login</string>
+    <string name="Inicio">Inicio</string>
+    <string name="Registro">Registro</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido(s)</string>
+    <string name="Correo">Correo</string>
+    <string name="Fecha">Fecha de nacimiento</string>
+    <string name="C_Contraseña">Confirmar contraseña</string>
+    <string name="Especies">Especies</string>
+    <string name="Zonas">Zonas</string>
+    <string name="Registrar">Capturar</string>
+    <string name="Mis_especies">Mis especies</string>
+    <string name="Bienvenida">Hola!!!</string>
+    <string name="Latitud">Latitud</string>
+    <string name="Longitud">Longitud</string>
+    <string name="Cantidad">Cantidad</string>
+</resources>
